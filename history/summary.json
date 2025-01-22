@@ -4,19 +4,19 @@
     "url": "https://scim-test-app1.azurewebsites.net/scim/users",
     "icon": "https://icons.duckduckgo.com/ip3/scim-test-app1.azurewebsites.net.ico",
     "slug": "scim-endpoint-for-users",
-    "status": "down",
-    "uptime": "21.45%",
-    "uptimeDay": "21.45%",
-    "uptimeWeek": "21.45%",
-    "uptimeMonth": "21.45%",
-    "uptimeYear": "21.45%",
-    "time": 2652,
-    "timeDay": 2652,
-    "timeWeek": 2652,
-    "timeMonth": 2652,
-    "timeYear": 2652,
+    "status": "up",
+    "uptime": "0.11%",
+    "uptimeDay": "0.11%",
+    "uptimeWeek": "0.11%",
+    "uptimeMonth": "0.11%",
+    "uptimeYear": "0.11%",
+    "time": 1739,
+    "timeDay": 1739,
+    "timeWeek": 1739,
+    "timeMonth": 1739,
+    "timeYear": 1739,
     "dailyMinutesDown": {
-      "2025-01-22": 0
+      "2025-01-22": 113
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://scim-test-app1.azurewebsites.net/scim/groups",
     "icon": "https://icons.duckduckgo.com/ip3/scim-test-app1.azurewebsites.net.ico",
     "slug": "scim-endpoint-for-groups",
-    "status": "down",
-    "uptime": "7.68%",
-    "uptimeDay": "7.68%",
-    "uptimeWeek": "7.68%",
-    "uptimeMonth": "7.68%",
-    "uptimeYear": "7.68%",
-    "time": 188,
-    "timeDay": 188,
-    "timeWeek": 188,
-    "timeMonth": 188,
-    "timeYear": 188,
+    "status": "up",
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
+    "time": 472,
+    "timeDay": 472,
+    "timeWeek": 472,
+    "timeMonth": 472,
+    "timeYear": 472,
     "dailyMinutesDown": {
-      "2025-01-22": 0
+      "2025-01-22": 113
     }
   }
 ]
