@@ -6,11 +6,11 @@ sites:
   - name: SCIM Endpoint for Users
     url: https://scim-test-app1.azurewebsites.net/scim/users
     headers:
-    - "Authorization": Bearer $CHECKER 
+    - "Authorization: Bearer $CHECKER" 
   - name: SCIM Endpoint for Groups
     url: https://scim-test-app1.azurewebsites.net/scim/groups
     headers:
-    - "Authorization": Bearer $CHECKER
+    - "Authorization: Bearer $CHECKER"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
