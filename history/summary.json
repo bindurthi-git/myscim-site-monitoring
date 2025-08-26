@@ -4,9 +4,9 @@
     "url": "https://scim-test-app1.azurewebsites.net/scim/users",
     "icon": "https://icons.duckduckgo.com/ip3/scim-test-app1.azurewebsites.net.ico",
     "slug": "scim-endpoint-for-users",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -16,6 +16,7 @@
     "timeMonth": 1000,
     "timeYear": 951,
     "dailyMinutesDown": {
+      "2025-08-26": 0,
       "2025-01-22": 113
     }
   },
